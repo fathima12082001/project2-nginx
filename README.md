@@ -1,27 +1,32 @@
-# Project 2 - Static Website Hosting using Nginx
+# Project 2 – Static Website Hosting with Nginx
 
-## Description
-This project demonstrates how to host a static website using the Nginx web server on Ubuntu Linux.
+## 📌 Project Overview
+This project demonstrates how to host a **static website** on Ubuntu using the **Nginx web server**.  
+The website is a simple HTML page that displays a greeting and shows basic deployment skills.
 
-## Technologies Used
-- Ubuntu Linux
-- Nginx Web Server
-- HTML
-- Git & GitHub
+## 🛠 Technologies Used
+✔ Ubuntu  
+✔ Nginx  
+✔ HTML  
+✔ Git & GitHub  
 
-## Steps Performed
-1. Installed Nginx on Ubuntu
-2. Started and managed Nginx as a Linux service
-3. Created a simple static HTML website
-4. Deployed the website using Nginx web root directory
-5. Accessed the website through browser
+## 🚀 Steps Performed
+1. Updated system packages  
+2. Installed Nginx web server  
+3. Created a custom `index.html` file  
+4. Placed the HTML file in the default Nginx root directory  
+5. Restarted Nginx to serve the custom webpage  
+6. Initialized a Git repository
+7. Committed files and pushed to GitHub
 
-## Learning Outcome
-- Understanding of web servers
-- Basics of Nginx
-- Linux service management
-- Static website hosting
+## 📌 What I Learned
+✔ How to install and configure web servers on Linux  
+✔ How to serve static websites with Nginx  
+✔ How to use Git for version control  
+✔ How to push projects to GitHub for portfolio
 
-## Author
-Fathima
+## 🎉 Outcome
+The static HTML page is successfully hosted on Ubuntu using Nginx and can be accessed locally via a web browser.
+
+## 📁 Project Structure
 
