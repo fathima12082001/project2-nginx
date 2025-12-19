@@ -29,4 +29,23 @@ The website is a simple HTML page that displays a greeting and shows basic deplo
 The static HTML page is successfully hosted on Ubuntu using Nginx and can be accessed locally via a web browser.
 
 ## 📁 Project Structure
+project2-mginx/
+|--- index.html
+|--- README.md
+
+
+## 📝 What I Learned
+✔ How to install and manage services using Linux commands  
+✔ How to use Nginx to serve a static website  
+✔ Git basics (init, add, commit, push)  
+✔ How to document and share projects on GitHub
+
+## 🖥️ Visit the Website
+You can view the hosted website on your Ubuntu machine using:
+http://localhost
+
+## 🎯 Outcome
+The project successfully demonstrates hosting a static HTML page using Nginx and managing it with Git & GitHub.
+
+---
 
